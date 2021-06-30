@@ -1,0 +1,21 @@
+h1 {color: #000000}
+
+.title 
+{
+    background-color: #6bcab2;
+    display : flex;
+    justify-content: space-between;
+}
+.Cricketers
+{
+    background-color: #5b0f00;
+    display: flex;
+    justify-content: space-around;
+}
+.youtubediscord
+{
+    background-color: #4a1861;
+    display: flex;
+    justify-content: flex-end;
+}
+
